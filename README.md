@@ -3,7 +3,7 @@
 ## I am a Developer, 
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:                                     
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning on Coursera and FreeCodeCamp
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essey1&exclude_repo=Project-04, IBM-Data-Analyst-Capstone-Project
-)](https://github.com/essey1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essey1&exclude_repo=github-readme-stats,IBM-Data-Analyst-Capstone-Project,Project-04)](https://github.com/anuraghazra/github-readme-stats)
