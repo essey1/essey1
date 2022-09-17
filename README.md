@@ -1,6 +1,6 @@
-### Hi there 👋 my name is Essey Araya.
+# Hi there 👋 my name is Essey Araya.
 
-## I am a Developer and Student eager to learn.                              
+### I am a Developer and Student eager to learn.                              
 
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning on Coursera and FreeCodeCamp
