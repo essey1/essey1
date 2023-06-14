@@ -3,6 +3,6 @@
 ### I am a Developer and Student eager to learn.                              
 
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning on Alx, Coursera and YouTube
+- 🌱 I’m currently learning on Coursera and YouTube
 - 📫 How to reach me: Email: esseyt3@gmail.com, Linkedin: https://www.linkedin.com/in/esseyt, Portfolio: https://essey1.github.io
 
