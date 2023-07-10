@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning on Coursera, The Odin Project and YouTube
 - 📫 How to reach me: Email: esseyt3@gmail.com, Linkedin: https://www.linkedin.com/in/esseyt, Portfolio: https://essey1.github.io
 
-https://github-readme-stats.vercel.app/api?username=essey1)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=essey1)](https://github.com/essey1/github-readme-stats)
