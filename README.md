@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Essey T. Araya.
+# Hello there 👋 my name is Essey T. Araya.
 
 ### I design and build web applications.                              
 
