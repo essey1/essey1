@@ -6,4 +6,4 @@
 - 👨‍💻 Visit my portfolio: [essey.netlify.app](https://essey.netlify.app)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=essey1)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/essey1/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=essey1)](https://github.com/essey1/github-readme-stats)
