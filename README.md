@@ -5,4 +5,3 @@
 - 📫 How to reach me: Email: araya.essey@gmail.com, Linkedin: https://www.linkedin.com/in/essey-araya
 - 👨‍💻 Visit my portfolio: [essey.netlify.app](https://essey.netlify.app)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=essey1)](https://git.io/streak-stats)
